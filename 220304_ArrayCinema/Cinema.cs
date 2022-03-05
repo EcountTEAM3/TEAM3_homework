@@ -9,7 +9,7 @@ namespace _220304_ArrayCinema
     class Cinema
     {
         string[,] seat = new string[4,5];       // 좌석 배열
-        int resultcode = 0;                              // 메인에 결과코드 보낼새기
+        int resultcode = 0;                     // 메인에 결과코드 보낼새기
 
         public Cinema()
         {
