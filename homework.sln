@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex24_Array_Param", "Ex24_Array_Param\Ex24_Array_Param.csproj", "{C39107C0-BF40-42EB-8F03-68DA94E1AF78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema_team", "Cinema_team\Cinema_team.csproj", "{F03DAF7F-7FAB-47D0-AF26-C80390066960}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -199,6 +201,14 @@ Global
 		{C39107C0-BF40-42EB-8F03-68DA94E1AF78}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C39107C0-BF40-42EB-8F03-68DA94E1AF78}.Release|x86.ActiveCfg = Release|Any CPU
 		{C39107C0-BF40-42EB-8F03-68DA94E1AF78}.Release|x86.Build.0 = Release|Any CPU
+		{F03DAF7F-7FAB-47D0-AF26-C80390066960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03DAF7F-7FAB-47D0-AF26-C80390066960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03DAF7F-7FAB-47D0-AF26-C80390066960}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F03DAF7F-7FAB-47D0-AF26-C80390066960}.Debug|x86.Build.0 = Debug|Any CPU
+		{F03DAF7F-7FAB-47D0-AF26-C80390066960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03DAF7F-7FAB-47D0-AF26-C80390066960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03DAF7F-7FAB-47D0-AF26-C80390066960}.Release|x86.ActiveCfg = Release|Any CPU
+		{F03DAF7F-7FAB-47D0-AF26-C80390066960}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
